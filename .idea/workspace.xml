@@ -59,20 +59,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/netology/service/CashbackHackService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="136">
+              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/netology/service/CashbackHackServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="40" column="27" lean-forward="true" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+            <state relative-caret-position="260">
+              <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,7 +102,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -176,6 +176,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
   </component>
@@ -281,18 +282,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="qaq_2_1_[test] - 2019.10.24 at 19h 41m 37s.xml">
-      <configuration name="qaq_2_1 [test]" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="qaq_2_1_[test] - 2019.10.24 at 19h 48m 45s.xml">
-      <configuration name="qaq_2_1 [test]" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="qaq_2_1_[test] - 2019.10.24 at 19h 49m 15s.xml">
-      <configuration name="qaq_2_1 [test]" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="CashbackHackServiceTest_shouldRerurn100IfAmountIs900 - 2019.10.24 at 19h 49m 37s.xml">
-      <configuration name="CashbackHackServiceTest.shouldRerurn100IfAmountIs900" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="CashbackHackServiceTest - 2019.10.24 at 19h 57m 59s.xml">
       <configuration name="CashbackHackServiceTest" configurationId="GradleRunConfiguration" />
     </history-entry>
@@ -311,9 +300,21 @@
     <history-entry file="qaq_2_1_[test] - 2019.10.24 at 20h 06m 41s.xml">
       <configuration name="qaq_2_1 [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="qaq_2_1_[test] - 2019.10.24 at 20h 25m 37s.xml">
+      <configuration name="qaq_2_1 [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="qaq_2_1_[test] - 2019.10.24 at 20h 27m 11s.xml">
+      <configuration name="qaq_2_1 [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="qaq_2_1_[test] - 2019.10.24 at 20h 27m 49s.xml">
+      <configuration name="qaq_2_1 [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="qaq_2_1_[test] - 2019.10.24 at 20h 28m 10s.xml">
+      <configuration name="qaq_2_1 [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
@@ -325,7 +326,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -339,7 +340,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Gradle" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Gradle" order="5" visible="true" weight="0.13842663" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
@@ -357,20 +358,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/netology/service/CashbackHackServiceTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/netology/service/CashbackHackService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="40" column="27" lean-forward="true" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/netology/service/CashbackHackService.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/netology/service/CashbackHackServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="260">
+          <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
